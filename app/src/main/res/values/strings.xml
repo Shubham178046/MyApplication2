@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Application2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="iron_man">Iron Man</string>
+    <string name="captain_america">Captain America</string>
+    <string name="deadpool">DeadPool</string>
+    <string name="captain_marvel">Captain Marvel</string>
+    <string name="thor">Thor</string>
+    <string name="dead_machine">Dead Machine</string>
+    <string name="spiderman">Spider Man</string>
+
+    <string name="aquaman">Aqua Man</string>
+    <string name="batman">Batman</string>
+    <string name="flash">Flash</string>
+    <string name="gold_hunter">Gold Hunter</string>
+    <string name="hawkman">Hawkman</string>
+    <string name="joker">Joker</string>
+    <string name="superman">Superman</string>
+
+
+</resources>
